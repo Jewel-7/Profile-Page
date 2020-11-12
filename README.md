@@ -13,3 +13,9 @@
 
 
 5)It consists a link in the projects section which will redirect to another page
+
+
+
+link to the profile page
+
+https://jewel-7.github.io/Profile-Page/
